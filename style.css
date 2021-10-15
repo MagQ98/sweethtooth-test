@@ -1,0 +1,20 @@
+body {
+    font-style: Roboto;
+    font-size: 100%;
+}
+
+.nav {
+    background-color: #794479;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+#logo {
+    color:rebeccapurple;
+}
+
+.logo-holder {
+    text-transform: capitalize;
+}
